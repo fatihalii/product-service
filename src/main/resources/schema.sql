@@ -1,0 +1,5 @@
+CREATE TABLE account(
+    id VARCHAR(256) PRIMARY KEY ,
+    name VARCHAR(50) NOT NULL ,
+    price DOUBLE NOT NULL
+);
